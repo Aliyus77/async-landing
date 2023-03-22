@@ -32,7 +32,7 @@ async function fetchData(urlApi) {
                 </div>
             </div>
         </a>    
-        `).slice(0,4).join('')}        
+        `).slice(2,9).join('')}        
         `;
         content.innerHTML = view; 
     } catch (error) {
